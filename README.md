@@ -12,3 +12,9 @@ duplicated_from: sayashi/vits-models
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+# vits-models-api
+
+Original repository: [zomehwh/vits-models](https://www.google.com](https://huggingface.co/spaces/kouenYoung/anime-tts/tree/main)https://huggingface.co/spaces/kouenYoung/anime-tts/tree/main)
+
+Differences: Added `main.py`
