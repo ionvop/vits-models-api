@@ -15,6 +15,6 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 # vits-models-api
 
-Original repository: [zomehwh/vits-models](https://huggingface.co/spaces/kouenYoung/anime-tts/tree/main)https://huggingface.co/spaces/kouenYoung/anime-tts/tree/main)
+Original repository: [zomehwh/vits-models](https://huggingface.co/spaces/zomehwh/vits-models-genshin-bh3/tree/main)
 
 Differences: Added `main.py`
